@@ -34,4 +34,5 @@ print(series)
 #Mostrando apenas uma coluna em um DataFrame
 print("===============")
 print(f"Mostrando a coluna com os nomes do DataFrame \n{df.Nome}")
+print("===============")
 print(f"Mostrando a media das idades do dataframe \n\n{df.Idade.mean()}")
